@@ -2,6 +2,9 @@
 42tiff_flow_threshold0/
 human_in_the_loop/
 models/
+original_cellpose/
+*.tiff
+*.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
